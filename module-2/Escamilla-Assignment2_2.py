@@ -20,7 +20,7 @@
 
 **Version**:
 - 1.0.0 - 2025.09.08 Week1: Programming Logic
-- 1.0.0 - 2025.09.15 Week2: Documenting Debugging
+- 1.0.1 - 2025.09.15 Week2: Documenting Debugging
 
 **Description**:
 This program created on 06/24/2024 from Week4 CIS245 assignment demonstrates the usage of functions in Python by converting miles to kilometers.
